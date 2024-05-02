@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735809928800",
+    "project_id": "sapp-35827",
+    "storage_bucket": "sapp-35827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735809928800:android:f6bab5740a3f1185b14d05",
+        "android_client_info": {
+          "package_name": "com.example.sapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqQJSRgepWOxUwN5Zv72ZAYnwP1_z1KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
